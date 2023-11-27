@@ -1,2 +1,5 @@
 # Practice_Unity_2048
-A programming exercises as 2048 in Unity. Not for commercial use, it's 2 years ago, so it is not a representative of my coding proficiency :). Not for commercial use!
+A programming exercises as 2048 in Unity, and I used dotween. 
+Not for commercial use, the picture is from internet.
+I made it about 2 years ago, so it can't represent my current coding skills :)
+Hope you like it.
