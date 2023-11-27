@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64b5227004f26104188814642ffd27bd, type: 3}
+  m_Name: Transition_1
+  m_EditorClassIdentifier: 
+  Id: 1
+  Name: AvA!
+  color: {r: 0.627451, g: 0.83921576, b: 0.9607844, a: 1}
+  sprite1: {fileID: 21300000, guid: 1f962c44c6ea4634984fccb1aca580bc, type: 3}
+  sprite2: {fileID: 21300000, guid: a927fa841d721e0408b33d00fead7a8a, type: 3}
+  sprite3: {fileID: 21300000, guid: 7839eb6367735c44787d34fd9922c98a, type: 3}
+  sprite4: {fileID: 21300000, guid: a927fa841d721e0408b33d00fead7a8a, type: 3}
+  sprite5: {fileID: 21300000, guid: fc90a85c424c9854798b57de374a5694, type: 3}
