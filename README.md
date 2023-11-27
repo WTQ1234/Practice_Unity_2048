@@ -5,4 +5,6 @@ Not for commercial use, the picture is from internet.
 
 I made it about 2 years ago, so it can't represent my current coding skills :)
 
+View it in the video: https://youtu.be/SAitsRjwNuw?si=ej63N0N2KYT4ICNf
+
 Hope you like it.
